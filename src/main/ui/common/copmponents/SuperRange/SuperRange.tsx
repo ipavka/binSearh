@@ -71,6 +71,7 @@ export const SuperRange: React.FC<SuperRangePropsType> = (
         min={min}
         max={max}
         value={value}
+        onTouchEnd={onMouseUpHandler}
         onMouseUp={onMouseUpHandler}
         onChange={onChangeCallback}
         className={finalRangeClassName}
