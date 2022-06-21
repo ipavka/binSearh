@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/binSearh/static/css/main.baf4917a.css",
+    "main.js": "/binSearh/static/js/main.4345b1e3.js",
+    "static/js/787.ad212023.chunk.js": "/binSearh/static/js/787.ad212023.chunk.js",
+    "index.html": "/binSearh/index.html",
+    "main.baf4917a.css.map": "/binSearh/static/css/main.baf4917a.css.map",
+    "main.4345b1e3.js.map": "/binSearh/static/js/main.4345b1e3.js.map",
+    "787.ad212023.chunk.js.map": "/binSearh/static/js/787.ad212023.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf4917a.css",
+    "static/js/main.4345b1e3.js"
+  ]
+}
